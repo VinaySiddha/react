@@ -22,11 +22,11 @@ rollno:"1188"
     <>
     <BrowserRouter>
     <ul>
-      <li>
-          <Link to="/compA">Click to compA</Link>
+      <li> 
+          <Link to="/compA">Click to compAb</Link>
        </li>
        <li>
-        <Link to="/compB">Click to compB</Link>
+        <Link to="/compB">Click to compB tester vasavi</Link>
         </li>
     </ul>
      <Routes>
